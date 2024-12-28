@@ -1,4 +1,4 @@
-# Лендинг клуба LuxoRides (https://andreigkuznetsov.github.io/luxorides/)
+# Лендинг пекарни Freandy cookies (https://andreigkuznetsov.github.io/cookies/)
 Лендинг создан на интенсиве по Frontend-разработке с Романом Черновым (https://itlogia.ru/about)
 
 ## Стек технологий:
